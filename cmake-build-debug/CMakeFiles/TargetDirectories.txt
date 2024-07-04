@@ -1,0 +1,7 @@
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/CMakeFiles/calc_lib.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/CMakeFiles/calc.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/tests/CMakeFiles/runUnitTests.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/calc-fold-alyoshinkkaa/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
